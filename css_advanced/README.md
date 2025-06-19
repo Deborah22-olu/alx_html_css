@@ -39,11 +39,11 @@ Image paths assume a folder named Images/ at the root.
 The project is ideal for front-end practice and layout replication from Figma or similar design tools.
 
 ✍️ Author
-Eviano James
+Deborah Olusanya
 
-GitHub: @Evianojay
+GitHub: @Deborah22-olu
 
-LinkedIn: [James Eviano](https://www.linkedin.com/in/james-eviano/)
+LinkedIn: [Deborah Olusanya](https://www.linkedin.com/in/deborah olusanya/)
 
 📝 License
 This project is for educational and practice purposes. You may reuse or adapt it freely.
