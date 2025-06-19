@@ -43,7 +43,7 @@ Deborah Olusanya
 
 GitHub: @Deborah22-olu
 
-LinkedIn: [Deborah Olusanya](https://www.linkedin.com/in/deborah olusanya/)
+LinkedIn: [Deborah Olusanya](https://www.linkedin.com/in/deboraholusanya/)
 
 📝 License
 This project is for educational and practice purposes. You may reuse or adapt it freely.
